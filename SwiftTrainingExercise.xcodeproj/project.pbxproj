@@ -6,10 +6,19 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXFileReference section */
+		FC1970FC2A41FE0600E4A4D6 /* Node.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Node.swift; sourceTree = "<group>"; };
+		FC1970FD2A41FE2D00E4A4D6 /* Queue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Queue.swift; sourceTree = "<group>"; };
+		FC1970FE2A42059900E4A4D6 /* QueueTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QueueTest.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		FCA789F82A41D45400F26DC8 = {
 			isa = PBXGroup;
 			children = (
+				FC1970FE2A42059900E4A4D6 /* QueueTest.swift */,
+				FC1970FD2A41FE2D00E4A4D6 /* Queue.swift */,
+				FC1970FC2A41FE0600E4A4D6 /* Node.swift */,
 			);
 			sourceTree = "<group>";
 		};
