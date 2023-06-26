@@ -10,12 +10,14 @@
 		FC19708B2A41D71300E4A4D6 /* stack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stack.swift; sourceTree = "<group>"; };
 		FC1970FA2A41FAF600E4A4D6 /* Node.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Node.swift; sourceTree = "<group>"; };
 		FC1970FB2A41FB1800E4A4D6 /* StackTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackTest.swift; sourceTree = "<group>"; };
+		FC1970FF2A42479300E4A4D6 /* FunctionalArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunctionalArray.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		FCA789F82A41D45400F26DC8 = {
 			isa = PBXGroup;
 			children = (
+				FC1970FF2A42479300E4A4D6 /* FunctionalArray.swift */,
 				FC1970FB2A41FB1800E4A4D6 /* StackTest.swift */,
 				FC1970FA2A41FAF600E4A4D6 /* Node.swift */,
 				FC19708B2A41D71300E4A4D6 /* stack.swift */,
